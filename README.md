@@ -31,14 +31,24 @@ pip install -r requirements.txt
 python3 grab-profile.py
 
 ```
-<b>Crack Your Gun ~>> Shot!
+<b>Crack Your Gun ~>> Shot!</b>
 
 
 3. Enter the number of profiles you want to grab when prompted.
 4. The program will fetch the profile images from the corresponding GitHub profiles and save them in a "profiles" subdirectory within the current directory.
 5. Check the terminal or command prompt for progress updates and success messages.
 
+## Tested Platform
+<u>This program only test on <b>KALI LINUX</b> Platform
+
 ## License
 This program is licensed under the [MIT License](LICENSE).
 
+## IMPORTANT NOTICE:
+<i>This program was just created for fun.<br>i will not take responsible for any kind of illegal use!
+
+Happy Coding
+
+find me on:
+<a href="https://twitter.com/hacksavior"> Twitter </a>
 

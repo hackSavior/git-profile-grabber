@@ -50,5 +50,5 @@ This program is licensed under the [MIT License](LICENSE).
 Happy Coding
 
 find me on:
-<a href="https://twitter.com/hacksavior" target="blank"> Twitter </a>
+<a href="https://twitter.com/hacksavior" target=blank> Twitter </a>
 

@@ -17,6 +17,7 @@ This program enables you to download profile images from GitHub user profiles. B
 3. Install the required dependencies by running the following command:
 
 ```
+git clone https://github.com/hackSavior/git-profile-grabber.git
 cd git-profile-grabber
 pip install -r requirements.txt
 
@@ -26,11 +27,12 @@ pip install -r requirements.txt
 ## Usage
 1. Open a terminal or command prompt and navigate to the directory where the program files are located.
 2. Run the program using the following command:
-<cite>
+```
 python3 grab-profile.py
 
-Crack Your Gun ~>> Shot!
-</cite>
+```
+<b>Crack Your Gun ~>> Shot!
+
 
 3. Enter the number of profiles you want to grab when prompted.
 4. The program will fetch the profile images from the corresponding GitHub profiles and save them in a "profiles" subdirectory within the current directory.
